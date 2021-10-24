@@ -12,6 +12,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0"
+  },
   "devDependencies": {
     "concurrently": "^5.1.0"
   }

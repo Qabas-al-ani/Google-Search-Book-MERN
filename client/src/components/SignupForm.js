@@ -5,7 +5,7 @@ import { useMutation } from "@apollo/react-hooks";
 // import the ADD User from the utils
 import { ADD_USER } from "../utils/mutations";
 
-import { createUser } from "../utils/API";
+
 import Auth from "../utils/auth";
 
 const SignupForm = () => {

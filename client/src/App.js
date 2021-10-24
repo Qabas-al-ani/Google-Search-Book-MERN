@@ -3,7 +3,9 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import SearchBooks from "./pages/SearchBooks";
 import SavedBooks from "./pages/SavedBooks";
 import Navbar from "./components/Navbar";
+// import ApolloProvider destructured  from apollo
 import { ApolloProvider } from "@apollo/react-hooks";
+// import the apollo client from apollo boost
 import ApolloClient from "apollo-boost";
 
 // assign in client to a new apollo client in high order function that takes request as a first are than a function then an operation set context with the trinary to check for the graphql uri
