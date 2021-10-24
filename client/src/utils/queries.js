@@ -1,4 +1,4 @@
-// import the graphql 
+// import the graphql
 import gql from "graphql-tag";
 
 // export GET_ME that contain me info dependencies
