@@ -1,5 +1,6 @@
 # Book Search Engine
-  ----
+
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 ## Table of Contents
 - [Description](#description)
@@ -45,9 +46,11 @@ To look for a needed book, save it in your memory and use it later if needed or 
 
 ### A Screenshot of my deployed Book Search Engine
 
-![ScreenShots]() 
-
-[full demo video]()
+![ScreenShots]( ./client/public/images/book1.png ) 
+![ScreenShots]( ./client/public/images/book2.png ) 
+![ScreenShots]( ./client/public/images/book3.png ) 
+![ScreenShots]( ./client/public/images/book4.png ) 
+![ScreenShots]( ./client/public/images/book5.png ) 
 
 ### Questions? 
 For any questions, please contact me with the information below:
