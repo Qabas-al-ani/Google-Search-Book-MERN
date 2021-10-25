@@ -7,7 +7,6 @@
 - [Technologies](#Technologies)
 - [Usage](#usage)
 - [Contribution](#contribution)
-- [Test Instructions](#test-instructions)
 - [Questions](#questions)
 
 ## Description:
@@ -15,7 +14,8 @@ This is a fully functional google search engine book it was created with Restful
 
 
 ## Technologies
-- HTML.
+```
+-  HTML.
 -  CSS.
 -  JAVASCRIPT.
 -  BOOTSTRAP.
@@ -24,18 +24,24 @@ This is a fully functional google search engine book it was created with Restful
 -  APOLLO SERVER.
 -  MONGODB DATABASE.
 -  NODE.JS.
-- .
+```
+
 
 ## Features
 You look, save, use and delete books.
 
 ### Installation
+```
 npm run develop
-
+```
 ### Usage
 To look for a needed book, save it in your memory and use it later if needed or you delete the list that you have created after you sign in to get your info after its been saved in the local storage
 
 ### Contribution
+```
+  Contributions, issues, and feature requests are welcome!
+   Give a ⭐️ if you like this project!
+```
 
 ### A Screenshot of my deployed Book Search Engine
 
