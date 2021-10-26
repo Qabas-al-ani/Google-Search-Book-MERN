@@ -1,11 +1,12 @@
 # Book Search Engine
+To checkout  the live site on [heroku]( https://afternoon-island-53749.herokuapp.com/ ).
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [Technologies](#Technologies)
+- [Technologies](#technologies)
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [Questions](#questions)
